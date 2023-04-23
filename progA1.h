@@ -5,5 +5,5 @@
 #include <string>
 
 void proclaim (const std::string& st);
-
+// hello from eclipse
 #endif

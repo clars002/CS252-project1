@@ -31,3 +31,6 @@
 *.app
 progA
 progB
+/.cproject
+/.project
+/progA1.cpp~
